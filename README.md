@@ -28,6 +28,7 @@ For running project you can use:
     npm run serve
 
 
+after running the project (on step before), you should run JSON SERVER before testing.
 For running API JSON on local:
 
     json-server --watch db.json
